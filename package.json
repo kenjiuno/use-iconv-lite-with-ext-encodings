@@ -1,0 +1,12 @@
+{
+  "name": "use-iconv-lite-with-ext-encodings",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/kenjiuno/use-iconv-lite-with-ext-encodings.git",
+  "author": "kenjiuno",
+  "license": "BSD-2-Clause",
+  "private": true,
+  "dependencies": {
+    "mailparser": "^3.0.0"
+  }
+}
