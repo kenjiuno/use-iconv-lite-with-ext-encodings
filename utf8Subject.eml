@@ -1,32 +1,7 @@
-From - Sat Nov 28 14:49:18 2020
-X-Mozilla-Status: 0001
-X-Mozilla-Status2: 00000000
-X-Mozilla-Keys:                                                                                 
-FCC: mailbox://xmailuser%40xmailserver.test@127.0.0.1/Sent
-X-Identity-Key: id1
-X-Account-Key: account1
-From: xmailuser <xmailuser@xmailserver.test>
 Subject: =?UTF-8?B?44GT44KT44Gr44Gh44Gv?=
-Message-ID: <7a9ac30a-ed76-1eea-e387-2caebe4d5e5b@xmailserver.test>
-Date: Sat, 28 Nov 2020 14:49:17 +0900
-X-Mozilla-Draft-Info: internal/draft; vcard=0; receipt=0; DSN=0; uuencode=0;
- attachmentreminder=0; deliveryformat=1
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
- Thunderbird/78.5.0
 MIME-Version: 1.0
 Content-Type: text/html; charset=utf-8
 Content-Language: en-US
 Content-Transfer-Encoding: 7bit
 
-<html>
-  <head>
-
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  </head>
-  <body>
-    <p>Hello<br>
-    </p>
-    <pre class="moz-signature" cols="72">-- 
->From me</pre>
-  </body>
-</html>
+Hello
