@@ -1,3 +1,6 @@
+//const iconv = require("iconv-lite");
+//iconv.addEncoding(require("encoding-iso-2022-jp"));
+
 const simpleParser = require('mailparser').simpleParser;
 
 const fs = require('fs');
